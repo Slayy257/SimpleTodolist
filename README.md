@@ -1,6 +1,6 @@
 # Simple todo list
 
-Simple todo list is a simple app written in c++
+A simple todo app written in c++
 ### Utilities
 * Add todo
 * Set todo state ( Done, NotDone )
