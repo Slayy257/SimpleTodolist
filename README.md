@@ -4,3 +4,7 @@ Simple todo list is a simple app written in c++ that can manage some todos like 
 
 * If you like this example please leave a star
 * If you think i can optimize my code please leave a comment about it
+
+## Here is a picture of the tool
+
+![alt text]((https://github.com/Slayy257/SimpleTodolist/blob/master/docs/tool.png?raw=true))
