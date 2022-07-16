@@ -7,4 +7,4 @@ Simple todo list is a simple app written in c++ that can manage some todos like 
 
 ## Here is a picture of the tool
 
-![alt text]((https://github.com/Slayy257/SimpleTodolist/blob/master/docs/tool.png?raw=true))
+https://github.com/Slayy257/SimpleTodolist/blob/master/docs/tool.png?raw=true
